@@ -97,11 +97,11 @@ Envelop your code in the mischievous embrace of memedom.
 ## Behold: A Guide Most Cursed 🦉🌕
 
 - **🐱** - `Enum` - Construct thy enumerations.
-- **owo** - `interface` - Declare yon contracts.
-- **UwU** - `type` - Sculpt thine shape of data.
-- **💀** - `throw new Error` - Unleash chaos.
-- **🍪** - `function` - Conjure functionalities.
-- **...** - and more of the sort!
+- **owo** - `interface` - Decla̷r̷e̶ thine contra̶c̶t̶ual obb̷l̷i̴g̷a̴t̷ions.
+- **UwU** - `type` - S̸c̵u̷l̴p̶t̵ ̷h̸i̵e̸w̵ ̶o̷f̸ ̷d̴a̷t̵a̴.
+- **💀** - `throw new Error` - U̷͉͛n̴͔̅ḷ̶̚e̵͖͑a̶͇̕s̶̨̾ḩ̶̇ë̵̥́t̷͍́h̷̘͝ ̵̛̹c̸̜̀ḧ̴͎́a̶̪͝ǫ̵̅s̶͎͠ ̴̽͜u̸̮͘p̸͚͑ơ̷̡ǹ̷͉ ̶̹̈́y̴̱͐e̶̱̐ ̴͚̄o̶͙̅l̴̘̓d̷̘͝ĕ̷̥ ̵̥̄c̵̛͙e̴̹̊ö̴̜́r̶͜͠l̴̞̎f̴͙͑o̴̩̎l̵̜̅c̵̺̔.̸̜̕
+- **🍪** - `function` - C̴̼͍͠ô̷͚̰̹͉n̶̥̍́̍j̸̞̻͙͍͗̂ṳ̸̣͉̃̈́̋r̸̫̙̉͗̃e̸̤̫̼͑́̆ ̸͓̬͇̽̇f̵͇̝̠̳̀ṳ̶̻̈́̎n̷̯̝͔̫̽͆c̷̡̘̯̙̔͗̃t̵͕̉͝î̶͔͕o̴̢̗͍̎͂ͅn̴̘̎͊̐̎a̵̙̗̥̠͛͒l̴͌̈̑͘ͅī̵͓̓͠ț̵̨͑ͅy̸̭̐̓́͗ͅ
+- **...** - p̷̝̏͐e̸̫̟̊r̴͎̣̎ḿ̵̢͊͜i̵̢͍͛̂t̵̲͇͗t̵̟̓́i̸͍̭̾t̴̠̐͋ ̶̦͓̿̋i̵͉̯͝n̵̬̈́ ̵͇̫͛a̴̞̞̚ę̵͗t̴̘͌ë̷̱̪̇r̴̘͆́n̵͎̒͜u̶̼̔m̵̩͚̚ ̷̧̟̀͒d̵̤̞̓͊a̶̰̭͋m̶͇̀̅n̷̗͓̐̚a̵͉͆͠t̶̲̙̒o̷̱̅̀s̷̪̾͑ ̵̨̙͛̆ç̴̇͛o̶̝̓r̸͚̩͝r̵̨̂̉u̸͉̝̿̑m̸̖̃͝p̷̦̚è̸͔r̷̯̔̓e̵̘̽̄ ̷͚͛ȍ̵͍m̷̜̄n̵͙͖̄i̴̜͓̽a̶͉̽
 
 Venture into a codebase both splendid and profane, where modern TypeScript syntax cavorts with `ts-emoji`, `Glowup Vibes`, and the gentle `uwu` lexicon.
 
